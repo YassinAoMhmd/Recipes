@@ -1,0 +1,93 @@
+.BodyPaella{
+    background-image: url(https://www.drinksco.es/blog/assets/uploads/sites/2/2021/01/Blog_receta_ES.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.textP{
+    margin-top: -5px;
+    color: yellow;
+    font-size: 45px;
+    font-family: Verdana;
+    text-align: center;
+}
+
+.sombraP{
+    margin-top: -52px;
+    margin-left: 0px;
+    color: red;
+    font-size: 45px;
+    font-family: Verdana;
+    text-align: center;
+}
+
+.developmentP{
+    color: white;
+    margin-left: 2%;
+}
+
+.BodyFrench {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/d/d7/Omelette_with_butter_and_tomatoes.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    position: relative;
+}
+
+.textF{
+    margin-top: -5px;
+    color: blue;
+    font-size: 45px;
+    font-family: Verdana;
+    text-align: center;
+}
+
+.sombraF{
+    margin-top: -52px;
+    margin-left: 0px;
+    color: rgb(255, 0, 0);
+    font-size: 45px;
+    font-family: Verdana;
+    text-align: center;
+}
+
+.developmentF{
+    color: black;
+    margin-left: 2%;
+}
+
+.BodySpain {
+    margin: 0%;
+    background-image: url(https://beginveganbegun.es/wp-content/uploads/2020/04/tortilla-patatas-vegana-sin-garbanzo-01.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.textS{
+    margin-top: -5px;
+    color: rgb(225, 225, 91);
+    font-size: 45px;
+    font-family: Verdana;
+    text-align: center;
+}
+
+.sombraS{
+    margin-top: -50px;
+    margin-left: 0px;
+    color: rgb(255, 0, 0);
+    font-size: 45px;
+    font-family: Verdana;
+    text-align: center;
+}
+
+.developmentS{
+    color: rgb(3, 16, 1);
+    margin-left: 2%;
+}
+
